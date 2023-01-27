@@ -18,14 +18,16 @@ git config --global user.email your_github_email
 **mac users**: if you run into an **`xcrun`** error: invalid active developer path, check [<ins>this solution</ins>](https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a): 
 
 
-```console
+```bat
 xcode-select --install
 ```
 
 <br>
 
 ### **Forking the main repository (only need to do this once)**
+
 <br>
+
 When you fork, you create a copy of the main repository as your own repository in your space. 
 
 <br>
@@ -44,7 +46,11 @@ When you fork, you create a copy of the main repository as your own repository i
     - [x] You put a description indicating this repo is a forked from owner: artichokew. This is optional but best practice. 
     - [x] Check “copy the main branch only”
 
+<br>
+
 4. Click the green botton **Create Fork**. Note that in your forked repo, the url has changed from **artichokew/test** to **winnieywl/test**. This means this repo has been copied to your github page. 
+
+<br>
 
 ###  **Connecting (Cloning) to your Fork Repository (only need to do this once per repo** 
 
@@ -52,7 +58,7 @@ When you fork, you create a copy of the main repository as your own repository i
 
 1. In your shell/terminal, change into the folder you want to save the cloned repository folder. 
 
-    ```console
+    ```bat
     cd "C:\Users\winni\OneDrive\git"
     ```
 
@@ -77,7 +83,7 @@ Professors may make changes to their course materials. Those changes will not au
 
 1. In your shell/terminal, change into the repository folder on your pc. Hit enter.
 
-    ```console
+    ```bat
     cd "C:\Users\winni\OneDrive\git\test"
     ```
 
@@ -93,7 +99,7 @@ Professors may make changes to their course materials. Those changes will not au
 
 3. Pull the latest change from the upstream repo by **artichokew**
 
-    ```console
+    ```bat
     git fetch upstream 
     ```
 
@@ -108,6 +114,7 @@ Professors may make changes to their course materials. Those changes will not au
 <br>
 
 ### **Submitting an Assignment and Create a Pull Request**
+
 Let’s say, you are asked to submit your Stata script in a folder called "midterm"
 
 1. You want to make sure you have the latest version of **test** from artichokew. Repeat **steps 1, 3 and 4** from section **Downloading the latest content from the upstream repo**
@@ -138,7 +145,7 @@ Let’s say, you are asked to submit your Stata script in a folder called "midte
 
 6. Push your change onto github
 
-    ```console
+    ```bat
     git push
     ```
 <br>
