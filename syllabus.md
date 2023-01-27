@@ -1,5 +1,5 @@
 
-# <h1 style="text-align: center;">ECO 385 Econometrics CRN 23269 </h1>
+# <p style="text-align: center;">ECO 385 Econometrics CRN 23269 </p>
 
 Pace University									Spring 2023
 Dr. Greg Colman							   41 Park Row, room 1127
