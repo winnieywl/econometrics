@@ -2,9 +2,13 @@
 
 # <p align="center">**ECO 385<br>Econometrics<br>CRN 23269** </p>
 
-Pace University                               Spring 2023  
+Pace University                               
 
-Dr. Greg Colman                    41 Park Row, room 1127  
+Spring 2023  
+
+Dr. Greg Colman                    
+
+41 Park Row, room 1127  
 
 Email: [gcolman@pace.edu](mailto:gcolman@pace.edu)
 
