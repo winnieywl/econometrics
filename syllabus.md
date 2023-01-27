@@ -1,5 +1,3 @@
-
-Email: [gcolman@pace.edu](mailto:gcolman@pace.edu) 
 # <p align="center">**ECO 385<br>Econometrics<br>CRN 23269** </p>
 
 
@@ -13,12 +11,9 @@ Email: [gcolman@pace.edu](mailto:gcolman@pace.edu)
 
 <p align="center"> Email: <a href="mailto:gcolman@pace.edu">gcolman@pace.edu</a></p>
 
-<br>
+**<p align="center">Course Meeting Times**: MW, 2:55 - 4:20</p>  
 
-**Course Meeting Times**: MW, 2:55 - 4:20  
-
-**Class Room**:	E309</p>
-  
+**<p align="center">Class Room**:	E309</p>
 
 <br>
 
@@ -26,11 +21,15 @@ Email: [gcolman@pace.edu](mailto:gcolman@pace.edu)
 
 This course is a continuation of Eco 240, Quantitative Analysis & Forecasting.  We briefly review simple regression, including the interpretation of coefficients and hypothesis testing, and then move on to multiple regression, including the meaning of “holding other things constant”, methods to handle violations of the OLS assumptions, the interpretation of a variety of functional forms, dummy variables, interaction terms, and more complicated hypothesis testing than in Eco 240.
 
+<br>
+
 ## **Required Course Materials**
 
-The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **MyEconLab** by Pearson publishing. To register for **MyEconLab**, go to the [**Pearson MyEconLab website**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>colman96777</font>**. We will use an econometrics package called **Stata**, which is installed in the computer labs, and **Microsoft Excel**. A good book on using Excel for econometrics is at [**Using Excel for Principles of Economics**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
+The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **MyEconLab** by Pearson publishing. To register for **MyEconLab**, go to the [**<ins>Pearson MyEconLab website</ins>**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>colman96777</font>**. We will use an econometrics package called **Stata**, which is installed in the computer labs, and **Microsoft Excel**. A good book on using Excel for econometrics is at [***<ins>Using Excel for Principles of Economics*</ins> (click to download)**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
 
-There are many free introductions to Stata on the Web. [**A link to many of them is here**](https://www.stata.com/links/resources-for-learning-stata/#).
+There are many free introductions to Stata on the Web. [**<ins>A link to many of them is here</ins>**](https://www.stata.com/links/resources-for-learning-stata/#).
+
+<br>
 
 ## **Grading**
 
@@ -54,13 +53,15 @@ Letter grades for the entire course will be given as follows:
 
 **<font color = 'red'>Note</font>**: Your grade depends entirely on your homework, quizzes, tests, and attendance. No extra-credit work of any kind will be admitted.
 
+<br>
+
 ## **Classroom Behavior**
 
 **Class starts promptly at 2:55. If you come to class more than 5 minutes late you get no credit for attendance.**  Those who miss a quiz can take it later but will receive a maximum of 75, unless the absence is caused by sickness, in which case you must supply a letter from your doctor on his or her letterhead, with a phone number at which he or she can be reached.     
 
 This class is computer- intensive, which is why it is held in a computer lab. You are expected to use the computer only to follow the programming we are doing in class or to do in-class problems. You may not surf the Web during class. Be aware that from the instructor’s computer I can see everyone’s desktop. 
 
-
+<br>
 
 |Date|	Day|	Chapters|	Topics|
 |----------|--------|----------|---------------------|
@@ -96,13 +97,20 @@ This class is computer- intensive, which is why it is held in a computer lab. Yo
 |3-May|	Wednesday|	No class|	
 |8-May|	Monday|	Final||	
 
+<br>
 
-Accommodations for Students with Disabilities
+
+## **Accommodations for Students with Disabilities**
 The University’s commitment to equal educational opportunities for students with disabilities includes providing reasonable accommodations for the needs of students with disabilities. To request an accommodation for a qualifying disability, a student must self-identify and register with the Coordinator of Disability Services for his or her campus. No one, including faculty, is authorized to evaluate the need and arrange for an accommodation except the Coordinator of Disability Services. Moreover, no one, including faculty, is authorized to contact the Coordinator of Disability Services on behalf of a student. For further information, please see Information for Students with Disabilities on the University’s web site. To receive accommodation for any disability, students must contact the campus Counseling Center (Pace Plaza, 212-346-1526; Westchester, 914-773-3710).
 
-Academic Integrity
+<br>
+
+## **Academic Integrity**
 You must do all homework on your own, though you are encouraged to go to the Tutoring Center to review concepts you do not understand. During quizzes and tests, you may bring only a pen or pencil and a calculator. You will not be allowed to use your phones or computers. All such devices must be stowed beneath your seat and silenced. You may consult no notes and of course no other student’s work.  A student who fails to comply with these standards of academic integrity is subject to disciplinary actions such as, but not limited to, a reduction in the grade for the assignment or the course, a failing grade in the assignment or the course, suspension and/or dismissal from the University.
-Statement on Self-Care
+
+<br>
+
+## **Statement on Self-Care**
 Your academic success in this course and throughout your college career depends heavily on your personal health and well-being. Stress is a common part of the college experience, and it often can be compounded by unexpected life changes outside the classroom. The Pace Community strongly encourages you to take care of yourself throughout the term, before the demands of midterms and finals reach their peak. Please feel free to talk with me about any difficulty you may be having that may impact your performance in this course as soon as it occurs and before it becomes unmanageable. Please know there are a number of other support services on campus that stand ready to assist you. I strongly encourage you to contact them when needed.
 
 
