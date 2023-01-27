@@ -8,85 +8,88 @@
 <p style="text-align: left;">Dr. Greg Colman
     <span style="float: right;">41 Park Row, room 1127</span>
 </p>
-<p style="text-align: left;">Email: gcolman@pace.edu
-</p>
+
+Email: [gcolman@pace.edu](mailto:gcolman@pace.edu)
+
+**Course Meeting Times**: MW, 2:55 - 4:20     
+
+**Class Room**:	E309
+  
 
 
-<p style="text-align: right;">Dr. Greg Colman
-</p>
-Course Meeting Times: MW, 2:55 - 4:20
-Class Room:	E309
-
-
-Course Description
+## **Course Description**
 
 This course is a continuation of Eco 240, Quantitative Analysis & Forecasting.  We briefly review simple regression, including the interpretation of coefficients and hypothesis testing, and then move on to multiple regression, including the meaning of “holding other things constant”, methods to handle violations of the OLS assumptions, the interpretation of a variety of functional forms, dummy variables, interaction terms, and more complicated hypothesis testing than in Eco 240.
 
-Required Course Materials
+## **Required Course Materials**
 
-The textbook for the course is Introduction to Econometrics, Fourth Edition, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on MyEconLab by Pearson publishing. To register for MyEconLab, got to the Pearson MyEconLab website and follow the instructions. The course code is colman96777. We will use an econometrics package called Stata, which is installed in the computer labs, and Microsoft Excel. A good book on using Excel for econometrics is at https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf.  
+The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **MyEconLab** by Pearson publishing. To register for **MyEconLab**, go to the [**Pearson MyEconLab website**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>colman96777</font>**. We will use an econometrics package called **Stata**, which is installed in the computer labs, and **Microsoft Excel**. A good book on using Excel for econometrics is at [**Using Excel for Principles of Economics**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
 
-There are many free introductions to Stata on the Web. A link to many of them is https://www.stata.com/links/resources-for-learning-stata/#.
+There are many free introductions to Stata on the Web. [**A link to many of them is here**](https://www.stata.com/links/resources-for-learning-stata/#).
 
-Grading
+## **Grading**
 
 There will be a number of quizzes, homeworks, a midterm, and a final.  Attendance will be taken at the beginning of class (late arrival will be counted as ½ an absence), and will count for 5% of the grade.  Homeworks will count for 20%, the midterm, 35%, and the final, 40%. There may be some quizzes, which will count for 10% of the grade each. If there are quizzes, the other portions of the grade will be adjusted.
 
 Letter grades for the entire course will be given as follows:
+|Grade|Letter Grade|
+|-----|------------|
+|92.5%	or	higher|	A|
+|90.0%	to	92.49%|	A-|
+|87.5%	to	89.99%|	B+|
+|82.5%	to	87.49%|	B|
+|80.0%	to	82.49%|	B-|
+|77.5%	to	79.99%|	C+|
+|72.5%	to	77.49%|	C|
+|70.0%	to	72.49%|	C-|
+|67.5%	to	69.99%|	D+|
+|62.5%	to	67.49%|	D|
+|60.0%	to	62.49%|	D-|
+|59.99%	or	lower|	F|
 
-92.5%	or	higher	A
-90.0%	to	92.49%	A-
-87.5%	to	89.99%	B+
-82.5%	to	87.49%	B
-80.0%	to	82.49%	B-
-77.5%	to	79.99%	C+
-72.5%	to	77.49%	C
-70.0%	to	72.49%	C-
-67.5%	to	69.99%	D+
-62.5%	to	67.49%	D
-60.0%	to	62.49%	D-
-59.99%	or	lower	F
+**</font color = 'red'>Note</font>**: Your grade depends entirely on your homework, quizzes, tests, and attendance. No extra-credit work of any kind will be admitted.
 
-Note: Your grade depends entirely on your homework, quizzes, tests, and attendance. No extra-credit work of any kind will be admitted.
+## **Classroom Behavior**
 
-Classroom Behavior
+**Class starts promptly at 2:55. If you come to class more than 5 minutes late you get no credit for attendance.**  Those who miss a quiz can take it later but will receive a maximum of 75, unless the absence is caused by sickness, in which case you must supply a letter from your doctor on his or her letterhead, with a phone number at which he or she can be reached.     
 
-Class starts promptly at 2:55. If you come to class more than 5 minutes late you get no credit for attendance.  Those who miss a quiz can take it later but will receive a maximum of 75, unless the absence is caused by sickness, in which case you must supply a letter from your doctor on his or her letterhead, with a phone number at which he or she can be reached.
 This class is computer- intensive, which is why it is held in a computer lab. You are expected to use the computer only to follow the programming we are doing in class or to do in-class problems. You may not surf the Web during class. Be aware that from the instructor’s computer I can see everyone’s desktop. 
 
 
-Date	Day	Chapters	Topics
-23-Jan	Monday	3.7,4.1	Covariance, Scatter plots, Simple OLS
-25-Jan	Wednesday	4.2,4.3	OLS estimation and fit
-30-Jan	Monday	4.4, 4.5	OLS assumptions, distribution
-1-Feb	Wednesday	5.3,5.4	Dummy variables
-6-Feb	Monday	6.1,6.2,6.3	Multiple Regression, Omitted Variable Bias
-8-Feb	Wednesday	6.4,6.5,6.6,6.7	Simple vs Multiple OLS
-13-Feb	Monday	6.8	Control variables
-15-Feb	Wednesday	Quiz 1	
-20-Feb	Monday	No class	
-22-Feb	Wednesday	7.1	Hypothesis tests, Confidence Intervals
-27-Feb	Monday	7.2, 7.3	Joint Hypotheses
-1-Mar	Wednesday	7.4,7.5	Model Specification
-6-Mar	Monday	Review	
-8-Mar	Wednesday	Midterm	
-13-Mar	Monday	No class	
-15-Mar	Wednesday	No class	
-20-Mar	Monday	8.1,8.2	Nonlinear models
-22-Mar	Wednesday	8.3,8.4	Interactions
-27-Mar	Monday	10.1,10.2	Panel Data
-29-Mar	Wednesday	10.3,10.4	Fixed Effects
-3-Apr	Monday	10.5,10.6	FE assumptions
-5-Apr	Wednesday	11.1,11.2	Binary dependent variables
-10-Apr	Monday	11.3,11.4	Maximum Likelihood, Fit
-12-Apr	Wednesday	Quiz 2	
-17-Apr	Monday	15.1,15.2	Time series, stationarity
-19-Apr	Wednesday	15.3,15.4	Autoregressions
-24-Apr	Monday	15.5,15.6	Forecasts, lag length
-26-Apr	Wednesday	15.7,15.8	Nonstationarity
-1-May	Monday	Review	
-3-May	Wednesday	No class	
-8-May	Monday	Final	
+
+|Date|	Day|	Chapters|	Topics|
+|----|-----|---------|---------|
+|23-Jan	|Monday|	3.7,4.1|	Covariance, Scatter plots, Simple OLS|
+|25-Jan|	Wednesday|	4.2,4.3|	OLS estimation and fit|
+|30-Jan|	Monday|	4.4, 4.5|	OLS assumptions, distribution|
+|1-Feb|	Wednesday|	5.3,5.4|	Dummy variables|
+|6-Feb|	Monday|	6.1,6.2,6.3|	Multiple Regression, Omitted Variable Bias|
+|8-Feb|	Wednesday|	6.4,6.5,6.6,6.7|	Simple vs Multiple OLS|
+|13-Feb|	Monday|	6.8|	Control variables|
+|15-Feb|	Wednesday|	Quiz 1|	|
+|20-Feb|	Monday|	No class||	
+|22-Feb|	Wednesday|	7.1|	Hypothesis tests, Confidence Intervals|
+|27-Feb|	Monday|	7.2, 7.3|	Joint Hypotheses|
+|1-Mar|	Wednesday|	7.4,7.5|	Model Specification|
+|6-Mar|	Monday|	Review||	
+|8-Mar|	Wednesday|	Midterm	||
+|13-Mar|	Monday|	No class||	
+|15-Mar|	Wednesday|	No class||	
+|20-Mar|	Monday|	8.1,8.2|	Nonlinear models|
+|22-Mar|	Wednesday|	8.3,8.4	|Interactions|
+|27-Mar|	Monday|	10.1,10.2|	Panel Data|
+|29-Mar|	Wednesday|	10.3,10.4|	Fixed Effects|
+|3-Apr|	Monday|	10.5,10.6|	FE assumptions|
+|5-Apr|	Wednesday|	11.1,11.2|	Binary dependent variables|
+|10-Apr|	Monday|	11.3,11.4|	Maximum Likelihood, Fit|
+|12-Apr|	Wednesday|	Quiz 2	||
+|17-Apr|	Monday|	15.1,15.2|	Time series, stationarity|
+|19-Apr|	Wednesday|	15.3,15.4|	Autoregressions|
+|24-Apr|	Monday|	15.5,15.6|	Forecasts, lag length|
+|26-Apr|	Wednesday|	15.7,15.8|	Nonstationarity|
+|1-May|	Monday|	Review|	|
+|3-May|	Wednesday|	No class|	
+|8-May|	Monday|	Final||	
 
 
 Accommodations for Students with Disabilities
