@@ -25,7 +25,7 @@ This course is a continuation of Eco 240, Quantitative Analysis & Forecasting.  
 
 ## **Required Course Materials**
 
-The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **MyEconLab** by Pearson publishing. To register for **MyEconLab**, go to the [**<ins>Pearson MyEconLab website</ins>**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>colman96777</font>**. We will use an econometrics package called **Stata**, which is installed in the computer labs, and **Microsoft Excel**. A good book on using Excel for econometrics is at [***<ins>Using Excel for Principles of Economics*</ins> (click to download)**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
+The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **MyEconLab** by Pearson publishing. To register for **MyEconLab**, go to the [**<ins>Pearson MyEconLab website</ins>**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>`colman96777`</font>**. We will use an econometrics package called **Stata**, which is installed in the computer labs, and **Microsoft Excel**. A good book on using Excel for econometrics is at [***<ins>Using Excel for Principles of Economics*</ins> (click to download)**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
 
 There are many free introductions to Stata on the Web. [**<ins>A link to many of them is here</ins>**](https://www.stata.com/links/resources-for-learning-stata/#).
 
@@ -64,7 +64,7 @@ This class is computer- intensive, which is why it is held in a computer lab. Yo
 <br>
 
 |Date|	Day|	Chapters|	Topics|
-|----------|--------|----------|---------------------|
+|-------------|--------|--------------|--------------------------|
 |23-Jan	|Monday|	3.7,4.1|	Covariance, Scatter plots, Simple OLS|
 |25-Jan|	Wednesday|	4.2,4.3|	OLS estimation and fit|
 |30-Jan|	Monday|	4.4, 4.5|	OLS assumptions, distribution|
