@@ -58,7 +58,7 @@ This class is computer- intensive, which is why it is held in a computer lab. Yo
 
 
 |Date|	Day|	Chapters|	Topics|
-|----|-----|---------|---------|
+|----------|--------|----------|---------------------|
 |23-Jan	|Monday|	3.7,4.1|	Covariance, Scatter plots, Simple OLS|
 |25-Jan|	Wednesday|	4.2,4.3|	OLS estimation and fit|
 |30-Jan|	Monday|	4.4, 4.5|	OLS assumptions, distribution|
