@@ -61,6 +61,6 @@
 ### **Note: Everytime you make a change to files, you have to repeat steps 6-8. An easy way:**
 <br>
 
-    ```console
-    git add * && git commit -m "You must put a message here" && git push
-    ```
+```console
+git add * && git commit -m "You must put a message here" && git push
+```
