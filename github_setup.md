@@ -139,7 +139,7 @@ Let’s say, you are asked to submit your Stata script in a folder called "midte
 6. Push your change onto github
 
     ```console
-    Push your branch on to github
+    git push
     ```
 <br>
 
