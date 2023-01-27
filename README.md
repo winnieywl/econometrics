@@ -25,7 +25,7 @@ This course is a continuation of Eco 240, Quantitative Analysis & Forecasting.  
 
 ## **Required Course Materials**
 
-The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **MyEconLab** by Pearson publishing. To register for **MyEconLab**, go to the [**<ins>Pearson MyEconLab website</ins>**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>`colman96777`</font>**. We will use an econometrics package called **Stata**, which is installed in the computer labs, and **Microsoft Excel**. A good book on using Excel for econometrics is at [***<ins>Using Excel for Principles of Economics*</ins> (click to download)**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
+The textbook for the course is ***Introduction to Econometrics, Fourth Edition***, by James Stock and Mark Watson.  The third edition will also be fine. Homework and tests will be done on **`MyEconLab`** by Pearson publishing. To register for **`MyEconLab`**, go to the [**<ins>Pearson MyEconLab website</ins>**](https://mlm.pearson.com/northamerica/myeconlab/) and follow the instructions. The course code is **<font color='red'>`colman96777`</font>**. We will use an econometrics package called **`Stata`**, which is installed in the computer labs, and **`Microsoft Excel`**. A good book on using Excel for econometrics is at [***<ins>Using Excel for Principles of Economics*</ins> (click to download)**](https://archive.org/download/400324942genevievebriandrcarterhillusingexcelforprinciplesofeconometricswiley2011pdf/400324942-GENEVIEVE-BRIAND-R-CARTER-HILL-Using-Excel-For-Principles-of-Econometrics-Wiley-2011-pdf.pdf).  
 
 There are many free introductions to Stata on the Web. [**<ins>A link to many of them is here</ins>**](https://www.stata.com/links/resources-for-learning-stata/#).
 
@@ -33,7 +33,7 @@ There are many free introductions to Stata on the Web. [**<ins>A link to many of
 
 ## **Grading**
 
-There will be a number of quizzes, homeworks, a midterm, and a final.  Attendance will be taken at the beginning of class (late arrival will be counted as ½ an absence), and will count for 5% of the grade.  Homeworks will count for 20%, the midterm, 35%, and the final, 40%. There may be some quizzes, which will count for 10% of the grade each. If there are quizzes, the other portions of the grade will be adjusted.
+There will be a number of quizzes, homeworks, a midterm, and a final.  Attendance will be taken at the beginning of class (late arrival will be counted as ½ an absence), and will count for 5% of the grade.  `Homeworks` will count for 20%, the `midterm`, 35%, and the `final`, 40%. There may be some `quizzes`, which will count for 10% of the grade each. If there are quizzes, the other portions of the grade will be adjusted.
 
 Letter grades for the entire course will be given as follows:
 |Grade|Letter Grade|
