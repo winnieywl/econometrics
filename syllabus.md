@@ -1,22 +1,26 @@
 
-
+Email: [gcolman@pace.edu](mailto:gcolman@pace.edu) 
 # <p align="center">**ECO 385<br>Econometrics<br>CRN 23269** </p>
 
-Pace University                               
 
-Spring 2023  
+<p align="center">Pace University</p>                               
 
-Dr. Greg Colman                    
+<p align="center">Spring 2023</p>  
 
-41 Park Row, room 1127  
+<p align="center">Dr. Greg Colman</p>                    
 
-Email: [gcolman@pace.edu](mailto:gcolman@pace.edu)
+<p align="center">41 Park Row, room 1127</p>  
 
-**Course Meeting Times**: MW, 2:55 - 4:20     
+<p align="center"> Email: <a href="mailto:gcolman@pace.edu">gcolman@pace.edu</a></p>
 
-**Class Room**:	E309
+<br>
+
+**Course Meeting Times**: MW, 2:55 - 4:20  
+
+**Class Room**:	E309</p>
   
 
+<br>
 
 ## **Course Description**
 
