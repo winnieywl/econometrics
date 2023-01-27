@@ -47,7 +47,7 @@ Letter grades for the entire course will be given as follows:
 |60.0%	to	62.49%|	D-|
 |59.99%	or	lower|	F|
 
-**</font color = 'red'>Note</font>**: Your grade depends entirely on your homework, quizzes, tests, and attendance. No extra-credit work of any kind will be admitted.
+**<font color = 'red'>Note</font>**: Your grade depends entirely on your homework, quizzes, tests, and attendance. No extra-credit work of any kind will be admitted.
 
 ## **Classroom Behavior**
 
