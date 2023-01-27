@@ -10,7 +10,7 @@
 
 2. In shell, cd into a directory you want to save the repo
 
-    ```console
+    ```bat
     cd "C:\Useuprs\winni\OneDrive\git"
     ```
 
@@ -18,14 +18,14 @@
 
 3. Clone the repo:
 
-    ```console
+    ```bat
     git clone https://github.com/Sagamore-Economics/assignment1
     ```
     <br>
 
 4. Now you created a folder within the directory called “assignment1”, cd into it. 
 
-    ```console
+    ```bat
     cd assignment1
     ```
 <br>
