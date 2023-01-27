@@ -1,6 +1,6 @@
 # **How to upload content to Github**
 
-
+## **If you have already cloned it - start from step 4**
 
 <br>
 
